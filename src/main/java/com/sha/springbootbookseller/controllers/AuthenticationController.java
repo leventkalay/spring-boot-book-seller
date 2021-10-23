@@ -8,11 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author sa
- * @date 3.07.2021
- * @time 19:47
- */
+
 @RestController
 @RequestMapping("api/authentication")//pre-path
 @CrossOrigin
